@@ -215,6 +215,46 @@
 			"Id": "scarf_2",
 			"GroupId": "ParamGroup5",
 			"Name": "scarf_2"
+		},
+		{
+			"Id": "fisicas_scarf1_X1",
+			"GroupId": "ParamGroup8",
+			"Name": "fisicas_scarf1_X1"
+		},
+		{
+			"Id": "fisicas_scarf1_X2",
+			"GroupId": "ParamGroup8",
+			"Name": "fisicas_scarf1_X2"
+		},
+		{
+			"Id": "fisicas_scarf1_X3",
+			"GroupId": "ParamGroup8",
+			"Name": "fisicas_scarf1_X3"
+		},
+		{
+			"Id": "fisicas_scarf1_X4",
+			"GroupId": "ParamGroup8",
+			"Name": "fisicas_scarf1_X4"
+		},
+		{
+			"Id": "fisicas_scarf1_X5",
+			"GroupId": "ParamGroup8",
+			"Name": "fisicas_scarf1_X5"
+		},
+		{
+			"Id": "fisicas_scarf1_X6",
+			"GroupId": "ParamGroup8",
+			"Name": "fisicas_scarf1_X6"
+		},
+		{
+			"Id": "fisicas_scarf1_X7",
+			"GroupId": "ParamGroup8",
+			"Name": "fisicas_scarf1_X3"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "breath"
 		}
 	],
 	"ParameterGroups": [
@@ -252,6 +292,11 @@
 			"Id": "ParamGroup5",
 			"GroupId": "",
 			"Name": "bufandas"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "fisicas"
 		}
 	],
 	"Parts": [
@@ -322,6 +367,10 @@
 		{
 			"Id": "hair7",
 			"Name": "hair1"
+		},
+		{
+			"Id": "back_bufanda1_Skinning",
+			"Name": "back_bufanda1(Skinning)"
 		}
 	],
 	"CombinedParameters": [
