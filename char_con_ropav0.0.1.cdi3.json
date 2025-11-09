@@ -207,14 +207,14 @@
 			"Name": "shoes_3"
 		},
 		{
-			"Id": "bufanda_1",
+			"Id": "scarf_1",
 			"GroupId": "ParamGroup5",
-			"Name": "bufanda_1"
+			"Name": "scarf_1"
 		},
 		{
-			"Id": "bufanda_2",
+			"Id": "scarf_2",
 			"GroupId": "ParamGroup5",
-			"Name": "bufanda_2"
+			"Name": "scarf_2"
 		}
 	],
 	"ParameterGroups": [
