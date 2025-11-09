@@ -1,0 +1,156 @@
+{
+  "clothing": {
+    "hats": [
+      {
+        "id": "hat1",
+        "type": "hat",
+        "parameter": "hat_1",
+        "extra_parameters": []
+      },
+      {
+        "id": "hat2",
+        "type": "hat",
+        "parameter": "hat_2",
+        "extra_parameters": []
+      },
+      {
+        "id": "hat3",
+        "type": "hat",
+        "parameter": "hat_3",
+        "extra_parameters": []
+      },
+      {
+        "id": "hat4",
+        "type": "hat",
+        "parameter": "hat_4",
+        "extra_parameters": []
+      }
+    ],
+    "hair": [
+      {
+        "id": "hair1",
+        "type": "hair",
+        "parameter": "hair_1",
+        "extra_parameters": ["hair1_hat2", "hair1_hat3"]
+      },
+      {
+        "id": "hair2",
+        "type": "hair",
+        "parameter": "hair_2",
+        "extra_parameters": ["hair2_hat1", "hair2_hat2", "hair2_hat3"]
+      },
+      {
+        "id": "hair3",
+        "type": "hair",
+        "parameter": "hair_3",
+        "extra_parameters": ["hair3_hat2", "hair3_hat3"]
+      },
+      {
+        "id": "hair4",
+        "type": "hair",
+        "parameter": "hair_4",
+        "extra_parameters": ["hair4_hat1", "hair4_hat2", "hair4_hat3", "hair4_hat4"]
+      }
+    ],
+    "hoodies": [
+      {
+        "id": "hoodie1",
+        "type": "hoodie",
+        "parameter": "hoodie_1",
+        "extra_parameters": []
+      },
+      {
+        "id": "hoodie2",
+        "type": "hoodie",
+        "parameter": "hoodie_2",
+        "extra_parameters": []
+      }
+    ],
+    "tshirts": [
+      {
+        "id": "tshirt1",
+        "type": "tshirt",
+        "parameter": "tshirt_1",
+        "extra_parameters": ["tshirt1_hoodie1"]
+      },
+      {
+        "id": "tshirt2",
+        "type": "tshirt",
+        "parameter": "tshirt_2",
+        "extra_parameters": []
+      },
+      {
+        "id": "tshirt3",
+        "type": "tshirt",
+        "parameter": "tshirt_3",
+        "extra_parameters": ["tshirt3_hoodie1", "tshirt3_hoodie2"]
+      },
+      {
+        "id": "tshirt4",
+        "type": "tshirt",
+        "parameter": "tshirt_4",
+        "extra_parameters": []
+      }
+    ],
+    "pants": [
+      {
+        "id": "pants1",
+        "type": "pants",
+        "parameter": "pants_1",
+        "extra_parameters": ["pants1_shoes2"]
+      },
+      {
+        "id": "pants2",
+        "type": "pants",
+        "parameter": "pants_2",
+        "extra_parameters": []
+      },
+      {
+        "id": "pants3",
+        "type": "pants",
+        "parameter": "pants_3",
+        "extra_parameters": []
+      },
+      {
+        "id": "pants4",
+        "type": "pants",
+        "parameter": "pants_4",
+        "extra_parameters": []
+      }
+    ],
+    "shoes": [
+      {
+        "id": "shoes1",
+        "type": "shoes",
+        "parameter": "shoes_1",
+        "extra_parameters": []
+      },
+      {
+        "id": "shoes2",
+        "type": "shoes",
+        "parameter": "shoes_2",
+        "extra_parameters": []
+      },
+      {
+        "id": "shoes3",
+        "type": "shoes",
+        "parameter": "shoes_3",
+        "extra_parameters": []
+      }
+    ],
+    "scarves": [
+      {
+        "id": "scarf1",
+        "type": "scarf",
+        "parameter": "scarf_1",
+        "extra_parameters": []
+      },
+      {
+        "id": "scarf2",
+        "type": "scarf",
+        "parameter": "scarf_2",
+        "extra_parameters": []
+      }
+    ]
+  }
+}
