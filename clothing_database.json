@@ -3,24 +3,28 @@
     "hats": [
       {
         "id": "hat1",
+        "display_name": "Gorra Deportiva",
         "type": "hat",
         "parameter": "hat_1",
         "extra_parameters": []
       },
       {
         "id": "hat2",
+        "display_name": "Sombrero Elegante",
         "type": "hat",
         "parameter": "hat_2",
         "extra_parameters": []
       },
       {
         "id": "hat3",
+        "display_name": "Gorra de Béisbol",
         "type": "hat",
         "parameter": "hat_3",
         "extra_parameters": []
       },
       {
         "id": "hat4",
+        "display_name": "Boina Artistica",
         "type": "hat",
         "parameter": "hat_4",
         "extra_parameters": []
@@ -29,24 +33,28 @@
     "hair": [
       {
         "id": "hair1",
+        "display_name": "Corte Moderno",
         "type": "hair",
         "parameter": "hair_1",
         "extra_parameters": ["hair1_hat2", "hair1_hat3"]
       },
       {
         "id": "hair2",
+        "display_name": "Melena Larga",
         "type": "hair",
         "parameter": "hair_2",
         "extra_parameters": ["hair2_hat1", "hair2_hat2", "hair2_hat3"]
       },
       {
         "id": "hair3",
+        "display_name": "Corte Corto",
         "type": "hair",
         "parameter": "hair_3",
         "extra_parameters": ["hair3_hat2", "hair3_hat3"]
       },
       {
         "id": "hair4",
+        "display_name": "Peinado Elegante",
         "type": "hair",
         "parameter": "hair_4",
         "extra_parameters": ["hair4_hat1", "hair4_hat2", "hair4_hat3", "hair4_hat4"]
@@ -55,12 +63,14 @@
     "hoodies": [
       {
         "id": "hoodie1",
+        "display_name": "Sudadera Gris",
         "type": "hoodie",
         "parameter": "hoodie_1",
         "extra_parameters": []
       },
       {
         "id": "hoodie2",
+        "display_name": "Chaqueta Deportiva",
         "type": "hoodie",
         "parameter": "hoodie_2",
         "extra_parameters": []
@@ -69,24 +79,28 @@
     "tshirts": [
       {
         "id": "tshirt1",
+        "display_name": "Camiseta Básica",
         "type": "tshirt",
         "parameter": "tshirt_1",
         "extra_parameters": ["tshirt1_hoodie1"]
       },
       {
         "id": "tshirt2",
+        "display_name": "Polo Casual",
         "type": "tshirt",
         "parameter": "tshirt_2",
         "extra_parameters": []
       },
       {
         "id": "tshirt3",
+        "display_name": "Camiseta Estampada",
         "type": "tshirt",
         "parameter": "tshirt_3",
         "extra_parameters": ["tshirt3_hoodie1", "tshirt3_hoodie2"]
       },
       {
         "id": "tshirt4",
+        "display_name": "Top Deportivo",
         "type": "tshirt",
         "parameter": "tshirt_4",
         "extra_parameters": []
@@ -95,24 +109,28 @@
     "pants": [
       {
         "id": "pants1",
+        "display_name": "Jeans Clásicos",
         "type": "pants",
         "parameter": "pants_1",
         "extra_parameters": ["pants1_shoes2"]
       },
       {
         "id": "pants2",
+        "display_name": "Pantalón Casual",
         "type": "pants",
         "parameter": "pants_2",
         "extra_parameters": []
       },
       {
         "id": "pants3",
+        "display_name": "Shorts Deportivos",
         "type": "pants",
         "parameter": "pants_3",
         "extra_parameters": []
       },
       {
         "id": "pants4",
+        "display_name": "Pantalón Formal",
         "type": "pants",
         "parameter": "pants_4",
         "extra_parameters": []
@@ -121,18 +139,21 @@
     "shoes": [
       {
         "id": "shoes1",
+        "display_name": "Zapatillas Urbanas",
         "type": "shoes",
         "parameter": "shoes_1",
         "extra_parameters": []
       },
       {
         "id": "shoes2",
+        "display_name": "Botas de Cuero",
         "type": "shoes",
         "parameter": "shoes_2",
         "extra_parameters": []
       },
       {
         "id": "shoes3",
+        "display_name": "Zapatos Elegantes",
         "type": "shoes",
         "parameter": "shoes_3",
         "extra_parameters": []
@@ -141,12 +162,14 @@
     "scarves": [
       {
         "id": "scarf1",
+        "display_name": "Bufanda de Lana",
         "type": "scarf",
         "parameter": "scarf_1",
         "extra_parameters": []
       },
       {
         "id": "scarf2",
+        "display_name": "Pañuelo Estampado",
         "type": "scarf",
         "parameter": "scarf_2",
         "extra_parameters": []
