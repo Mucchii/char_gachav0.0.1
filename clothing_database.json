@@ -10,14 +10,14 @@
       },
       {
         "id": "hat2",
-        "display_name": "Sombrero Elegante",
+        "display_name": "Gorro",
         "type": "hat",
         "parameter": "hat_2",
         "extra_parameters": []
       },
       {
         "id": "hat3",
-        "display_name": "Gorra de Béisbol",
+        "display_name": "Sombrero de Verano",
         "type": "hat",
         "parameter": "hat_3",
         "extra_parameters": []
@@ -40,21 +40,21 @@
       },
       {
         "id": "hair2",
-        "display_name": "Melena Larga",
+        "display_name": "Corte Corto",
         "type": "hair",
         "parameter": "hair_2",
         "extra_parameters": ["hair2_hat1", "hair2_hat2", "hair2_hat3"]
       },
       {
         "id": "hair3",
-        "display_name": "Corte Corto",
+        "display_name": "Melena Larga",
         "type": "hair",
         "parameter": "hair_3",
         "extra_parameters": ["hair3_hat2", "hair3_hat3"]
       },
       {
         "id": "hair4",
-        "display_name": "Peinado Elegante",
+        "display_name": "Peinado Desordenado",
         "type": "hair",
         "parameter": "hair_4",
         "extra_parameters": ["hair4_hat1", "hair4_hat2", "hair4_hat3", "hair4_hat4"]
@@ -116,21 +116,21 @@
       },
       {
         "id": "pants2",
-        "display_name": "Pantalón Casual",
+        "display_name": "Shorts Deportivos",
         "type": "pants",
         "parameter": "pants_2",
         "extra_parameters": []
       },
       {
         "id": "pants3",
-        "display_name": "Shorts Deportivos",
+        "display_name": "Pantalón Casual",
         "type": "pants",
         "parameter": "pants_3",
         "extra_parameters": []
       },
       {
         "id": "pants4",
-        "display_name": "Pantalón Formal",
+        "display_name": "Short",
         "type": "pants",
         "parameter": "pants_4",
         "extra_parameters": []
@@ -153,7 +153,7 @@
       },
       {
         "id": "shoes3",
-        "display_name": "Zapatos Elegantes",
+        "display_name": "Zapatos de Conejo",
         "type": "shoes",
         "parameter": "shoes_3",
         "extra_parameters": []
