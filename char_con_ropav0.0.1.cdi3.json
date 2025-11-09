@@ -256,10 +256,6 @@
 	],
 	"Parts": [
 		{
-			"Id": "Part15",
-			"Name": "char_con_ropa.psd (Corresponding layer not found)"
-		},
-		{
 			"Id": "Part7",
 			"Name": "hats"
 		},
@@ -312,10 +308,6 @@
 			"Name": "BACK_hoodie"
 		},
 		{
-			"Id": "layers3",
-			"Name": "layers"
-		},
-		{
 			"Id": "Part",
 			"Name": "cap_front"
 		},
@@ -330,18 +322,6 @@
 		{
 			"Id": "hair7",
 			"Name": "hair1"
-		},
-		{
-			"Id": "front_hairs",
-			"Name": "front_hairs"
-		},
-		{
-			"Id": "back_hair2",
-			"Name": "back_hair"
-		},
-		{
-			"Id": "hair3back",
-			"Name": "hair3back"
 		}
 	],
 	"CombinedParameters": [
