@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "char_con_ropav0.0.1.moc3",
+		"Textures": [
+			"char_con_ropav0.0.1.4096/texture_00.png"
+		],
+		"Physics": "char_con_ropav0.0.1.physics3.json",
+		"DisplayInfo": "char_con_ropav0.0.1.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
